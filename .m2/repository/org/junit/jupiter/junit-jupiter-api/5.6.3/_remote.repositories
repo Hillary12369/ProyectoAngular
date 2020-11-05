@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 01 09:58:01 PET 2020
+junit-jupiter-api-5.6.3.jar>central=
+junit-jupiter-api-5.6.3.pom>central=
+junit-jupiter-api-5.6.3-sources.jar>central=

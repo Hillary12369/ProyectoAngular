@@ -1,0 +1,26 @@
+{
+  "browsers": [
+    {
+      "type": "chrome",
+      "name": "chrome",
+      "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "version": "78.0.3904.97",
+      "regex": {},
+      "profile": "C:\\Users\\TIENDA\\.config\\@james-proxy\\james-browser-launcher\\chrome-78.0.3904.97_e3de00953eeb7"
+    },
+    {
+      "type": "ie",
+      "name": "ie",
+      "command": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe",
+      "version": "11.0.18362.1",
+      "profile": false
+    },
+    {
+      "type": "ie",
+      "name": "ie",
+      "command": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+      "version": "11.0.18362.1",
+      "profile": false
+    }
+  ]
+}
