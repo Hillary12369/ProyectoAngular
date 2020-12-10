@@ -1,6 +1,6 @@
 [ {
-  "version" : "6.8-20201103230052+0000",
-  "buildTime" : "20201103230052+0000",
+  "version" : "6.9-20201209230041+0000",
+  "buildTime" : "20201209230041+0000",
   "current" : false,
   "snapshot" : true,
   "nightly" : true,
@@ -9,12 +9,12 @@
   "rcFor" : "",
   "milestoneFor" : "",
   "broken" : false,
-  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201103230052+0000-bin.zip",
-  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201103230052+0000-bin.zip.sha256",
-  "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201103230052+0000-wrapper.jar.sha256"
+  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.9-20201209230041+0000-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.9-20201209230041+0000-bin.zip.sha256",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.9-20201209230041+0000-wrapper.jar.sha256"
 }, {
-  "version" : "6.7-20201030000035+0000",
-  "buildTime" : "20201030000035+0000",
+  "version" : "6.8-20201209005317+0000",
+  "buildTime" : "20201209005317+0000",
   "current" : false,
   "snapshot" : true,
   "nightly" : false,
@@ -23,9 +23,51 @@
   "rcFor" : "",
   "milestoneFor" : "",
   "broken" : false,
-  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.7-20201030000035+0000-bin.zip",
-  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.7-20201030000035+0000-bin.zip.sha256",
-  "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.7-20201030000035+0000-wrapper.jar.sha256"
+  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201209005317+0000-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201209005317+0000-bin.zip.sha256",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-6.8-20201209005317+0000-wrapper.jar.sha256"
+}, {
+  "version" : "6.8-rc-1",
+  "buildTime" : "20201126092543+0000",
+  "current" : false,
+  "snapshot" : false,
+  "nightly" : false,
+  "releaseNightly" : false,
+  "activeRc" : true,
+  "rcFor" : "6.8",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-6.8-rc-1-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-6.8-rc-1-bin.zip.sha256",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions/gradle-6.8-rc-1-wrapper.jar.sha256"
+}, {
+  "version" : "6.7.1",
+  "buildTime" : "20201116170924+0000",
+  "current" : true,
+  "snapshot" : false,
+  "nightly" : false,
+  "releaseNightly" : false,
+  "activeRc" : false,
+  "rcFor" : "",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-6.7.1-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-6.7.1-bin.zip.sha256",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions/gradle-6.7.1-wrapper.jar.sha256"
+}, {
+  "version" : "6.8-milestone-3",
+  "buildTime" : "20201115200053+0000",
+  "current" : false,
+  "snapshot" : false,
+  "nightly" : false,
+  "releaseNightly" : false,
+  "activeRc" : false,
+  "rcFor" : "",
+  "milestoneFor" : "6.8",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-6.8-milestone-3-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-6.8-milestone-3-bin.zip.sha256",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions/gradle-6.8-milestone-3-wrapper.jar.sha256"
 }, {
   "version" : "6.8-milestone-2",
   "buildTime" : "20201028055518+0000",
@@ -43,7 +85,7 @@
 }, {
   "version" : "6.7",
   "buildTime" : "20201014161312+0000",
-  "current" : true,
+  "current" : false,
   "snapshot" : false,
   "nightly" : false,
   "releaseNightly" : false,
