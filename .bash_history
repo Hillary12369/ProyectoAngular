@@ -1,7 +1,3 @@
-cd Calculadora
-git init 
-git status
-git config --global
 git add .
 git commit -m "mi primer commit"
 git remote add origin https://github.com/Hillary12369/Calculadora.git
@@ -498,3 +494,7 @@ git init
 git add README.md
 git remote add origin https://github.com/Hillary12369/ProyectoAngular.git
 git push origin master
+git remote add origin https://github.com/Hillary12369/SISRA-G4-BACKEND.git
+git init
+git add README.md
+git init
